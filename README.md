@@ -1,2 +1,2 @@
 # Simple Spring Web App
-This is simple spring project.
+This is a simple spring project.
